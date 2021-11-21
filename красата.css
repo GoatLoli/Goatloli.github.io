@@ -1,0 +1,37 @@
+body {
+    color:rgb(194, 102, 212);
+    background: url(https://phonoteka.org/uploads/posts/2021-06/thumbs/1623392064_32-phonoteka_org-p-teksturi-piksart-krasivo-33.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1 {
+    background: rgb(243, 199, 255);
+}
+h2 {
+    background: rgb(250, 231, 255);
+    border: 5px solid rgb(255, 145, 213);
+    font-size: medium;
+    width: fit-content;
+    padding: 5px;
+}
+h3 {
+    background: rgb(250, 231, 255);
+    border: 5px solid rgb(255, 145, 213);
+    font-size: medium;
+    width: fit-content;
+    padding: 5px;
+}
+h4 {
+    background: rgb(250, 231, 255);
+    border: 5px solid rgb(255, 145, 213);
+    font-size: medium;
+    width: fit-content;
+    padding-right: 90px;
+}
+img {
+    border: 5px solid rgb(255, 145, 213);
+}
+embed {
+    mask-repeat: repeat;
+}
